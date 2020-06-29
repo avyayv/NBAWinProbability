@@ -1,3 +1,3 @@
-# winprobability
+# Win Probability for the py_ball package
 
-The "new.ipynb" notebook will run if you clone and download my fork of the py_ball package for now: https://github.com/avyayv/py_ball
+The "pyballpackage.ipynb" notebook will run if you download the py_ball package: https://github.com/basketballrelativity/py_ball.
